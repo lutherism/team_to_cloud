@@ -1,0 +1,11 @@
+{
+	"name": "teamToCloud",
+	"dependencies": {
+		"requirejs": "~2.1.8",
+		"jquery": "~1.9",
+		"backbone": "1.1.0",
+		"bootstrap": "~3.0.0",
+		"underscore": "*",
+		"d3-cloud": "http://github.com/jasondavies/d3-cloud.git"
+	}
+}
